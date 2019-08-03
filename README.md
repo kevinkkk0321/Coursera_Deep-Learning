@@ -1,5 +1,5 @@
 # Deep-Learning
-Deep Learning Specialization. Master Deep Learning, and Break into AI
+Deep Learning Specialization. Master Deep Learning, and Break into AI by Andrew Ng (offered by deeplearning.ai)
 https://www.coursera.org/specializations/deep-learning
 
 ##1. Neural Networks and Deep Learning —
