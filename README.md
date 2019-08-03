@@ -2,6 +2,8 @@
 Deep Learning Specialization. Master Deep Learning, and Break into AI by Andrew Ng (offered by deeplearning.ai)
 https://www.coursera.org/specializations/deep-learning
 
+Followings are my course notes noted on my Medium page 
+
 ## 1. Neural Networks and Deep Learning 
 1-1.2 [Week 1,2](https://medium.com/chiukevin0321/neural-networks-and-deep-learning-week-1-75cacc95274f "link")
 
